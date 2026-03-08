@@ -7,3 +7,6 @@ def extract_data(path="data/input.csv"):
 		for row in reader:
 			rows.append(row)
 	return rows
+
+    ## Changes to test feature branch 
+	return rows 
